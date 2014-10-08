@@ -8,5 +8,9 @@ namespace WindowsFormsApplication3
 {
     class Class2
     {
+        public Class2()
+        {
+    
+        }
     }
 }
